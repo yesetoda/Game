@@ -157,9 +157,3 @@ To play this game, you need the following installed:
 
 Feel free to open issues and submit pull requests if you'd like to contribute to improving the game. Suggestions for new features or optimizations are always welcome.
 
----
-
-
----
-
-This **README** file provides a complete guide to the Minesweeper game, including how to play, install, and contribute. The game features a dynamic terminal interface and customizable gameplay options for an interactive experience.
