@@ -159,9 +159,6 @@ Feel free to open issues and submit pull requests if you'd like to contribute to
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
